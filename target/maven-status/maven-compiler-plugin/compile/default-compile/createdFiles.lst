@@ -1,0 +1,4 @@
+Paytm\MyRoutes.class
+Paytm\ActiveMQComponentFactory.class
+Paytm\mq\ActiveMQConfig.class
+Paytm\mq\ActiveMQConfigurer.class
